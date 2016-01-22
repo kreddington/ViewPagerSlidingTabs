@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MarketingMessage</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to sign-up and login -->
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="action_signup">Create Account</string>
+    <string name="action_go_to_login">Already a member? Login</string>
+    <string name="action_login">Login</string>
+    <string name="action_go_to_signup">No account yet? Create one</string>
+
+    <string name="msg_authenticating">Authenticating&#8230;</string>
+    <string name="msg_login_failed">Login failed</string>
+    <string name="msg_creating">Creating Account&#8230;</string>
+    <string name="msg_signup_failed">Signup failed</string>
+
+    <string name="error_invalid_first_name">First name must be at least 3 characters</string>
+    <string name="error_invalid_last_name">Last name must be at least 3 characters</string>
+    <string name="error_invalid_email">Email address is invalid</string>
+    <string name="error_unregistered_email">No account with that email address</string>
+    <string name="error_invalid_password">Password must be between 4 and 10 alphanumeric characters</string>
+    <string name="error_incorrect_password">Password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <!-- Strings used in multiple fragments -->
+    <string name="action_next">NEXT</string>
+    <string name="action_add">ADD</string>
+    <string name="text_examples">Examples</string>
+    <string name="text_tips">Tips</string>
+    <string name="add_more_question">Why can\'t I add more than 5?</string>
+    <string name="list_label1">1.</string>
+    <string name="list_label2">2.</string>
+    <string name="list_label3">3.</string>
+    <string name="list_label4">4.</string>
+    <string name="list_label5">5.</string>
+
+
+    <!-- Strings used in Top Clients fragment -->
+    <string name="top_clients_header">Your Top Clients</string>
+    <string name="top_clients_description">Think of your ideal or favorite clients. These should be clients you have enjoyed working with, clients who have achieved great results or clients you would like to have.</string>
+    <string name="top_clients_instruction">List your top 5 favorite clients (or briefly list characteristics of clients you would like to have.)</string>
+    
+    <!-- Strings used in Target Market fragment -->
+    <string name="target_market_header">Your Target Market</string>
+    <string name="target_market_description">Describe your target market in 1-3 words. Your top clients should be a subset of this market.</string>
+    <string name="target_market_instruction">(Swipe left to view top clients)</string>
+    <string name="target_market_hint">Target Market</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="icons">
+        <item>Top Clients</item>
+        <item>Target Market</item>
+        <item>Challenges</item>
+        <item>Results</item>
+        <item>Big Challenge</item>
+        <item>Big Result</item>
+        <item>Marketing Message</item>
+    </string-array>
+
+
+
+</resources>
